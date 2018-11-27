@@ -1,2 +1,0 @@
-# angular-bootcamp
-Angular bootcamp
